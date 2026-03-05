@@ -4,7 +4,7 @@ Videos to watch when working on specific skills. Use them at the start of a phas
 
 ---
 
-## Skills → Video sections (quick links)
+## Skills → Video sections (quick links) {#skills--video-sections-quick-links}
 
 | Skill (from phase files) | Video section |
 |--------------------------|----------------|
@@ -23,7 +23,7 @@ Videos to watch when working on specific skills. Use them at the start of a phas
 
 ## Phase 1 — Foundation
 
-### Long tones
+### Long tones {#long-tones}
 
 | Video | What it covers |
 |-------|----------------|
@@ -31,7 +31,7 @@ Videos to watch when working on specific skills. Use them at the start of a phas
 | [The Best Ways to Practice Long Tones on Trumpet](https://www.youtube.com/watch?v=WMRoZFdM_pM) | Why and how to practice long tones; what to listen for. |
 | [The Best Long Tones For Trumpet Players](https://www.youtube.com/watch?v=E69JF0-028Q) | Specific long-tone exercises and tempo (e.g. 60 bpm, then slower). |
 
-### Lip slurs
+### Lip slurs {#lip-slurs}
 
 | Video | What it covers |
 |-------|----------------|
@@ -40,13 +40,13 @@ Videos to watch when working on specific skills. Use them at the start of a phas
 | [7 Tips for Practicing Lip Slurs / Flexibilities on Trumpet](https://www.youtube.com/watch?v=pLaAdFezE1o) | Tips for cleaner slurs and less tension. |
 | [Build Your Trumpet Range with These Lip Slurs](https://www.youtube.com/watch?v=5r8V4gL7z0Q) | Lip slurs that help build range (useful as you move into Phase 2). |
 
-### Clean attacks / articulation
+### Clean attacks / articulation {#clean-attacks--articulation}
 
 | Video | What it covers |
 |-------|----------------|
 | [Trumpet Tonguing Technique and Articulation](https://www.youtube.com/watch?v=aj4SKhtp0c0) | Tongue placement, tension, and starting notes with air (Eat.Sleep.Trumpet). |
 
-### Breathing / air support
+### Breathing / air support {#breathing--air-support}
 
 | Video | What it covers |
 |-------|----------------|
@@ -58,7 +58,7 @@ Videos to watch when working on specific skills. Use them at the start of a phas
 
 ## Phase 2 — Range extension
 
-### High notes / range
+### High notes / range {#high-notes--range}
 
 | Video | What it covers |
 |-------|----------------|
@@ -68,11 +68,11 @@ Videos to watch when working on specific skills. Use them at the start of a phas
 | [Build your upper register — simple exercise](https://www.youtube.com/watch?v=mSKYjP9xTcs) | One simple exercise to improve high notes. |
 | [Build Your Trumpet Range with These Lip Slurs](https://www.youtube.com/watch?v=5r8V4gL7z0Q) | Lip slurs that extend into the upper register. |
 
-### Soft high notes
+### Soft high notes {#soft-high-notes}
 
 Use the “high notes” videos above and focus on playing the same notes *piano*: same air speed and support, less volume. The dynamics video below (Phase 3) also helps.
 
-### Double tonguing
+### Double tonguing {#double-tonguing}
 
 Trumpeter's Lullaby (and some Phase 3/4 pieces) have fast articulated passages that are clearer and easier with double tonguing ("ta-ka" or "tu-ku"). Work on this in Phase 2.
 
@@ -88,14 +88,14 @@ Trumpeter's Lullaby (and some Phase 3/4 pieces) have fast articulated passages t
 
 ## Phase 3 — Repertoire
 
-### Dynamics
+### Dynamics {#dynamics}
 
 | Video | What it covers |
 |-------|----------------|
 | [Dynamic Range and Playing With Color On The Trumpet](https://www.youtube.com/watch?v=Pi3JPh413zU) | Playing with different dynamics and tone colors. |
 | [This Simple Technique is Ignored — Use It To Boost Your Trumpet Skills](https://www.youtube.com/watch?v=1strDzsKFp8) | Practicing soft playing to improve tone and control. |
 
-### Phrasing and expression
+### Phrasing and expression {#phrasing-and-expression}
 
 Listen to good recordings of your Phase 3 pieces and notice where phrases start and end, where they get louder or softer, and where the player breathes. The dynamics videos above support this. You can also search “trumpet phrasing” or “musical phrasing trumpet” on YouTube for more.
 
@@ -103,7 +103,7 @@ Listen to good recordings of your Phase 3 pieces and notice where phrases start 
 
 ## Phase 4 — Il Triello
 
-### Il Triello — listen and play along
+### Il Triello — listen and play along {#il-triello--listen-and-play-along}
 
 | Video | What it covers |
 |-------|----------------|
@@ -111,13 +111,13 @@ Listen to good recordings of your Phase 3 pieces and notice where phrases start 
 
 Search YouTube for “Il Triello trumpet” or “The Good The Bad and The Ugly trumpet” for other performances and backing tracks. Listen to the original film soundtrack to internalize the melody and mood.
 
-### Sustained high notes and stamina
+### Sustained high notes and stamina {#sustained-high-notes-and-stamina}
 
 Revisit the **Phase 2 — High notes / range** videos. For stamina, practice playing the piece in sections, then half at a time, then the full piece; the Il Triello play-along above helps with full runs.
 
 ---
 
-## Warm-up play-alongs (any phase)
+## Warm-up play-alongs (any phase) {#warm-up-play-alongs-any-phase}
 
 | Video | What it covers |
 |-------|----------------|

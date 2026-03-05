@@ -56,11 +56,11 @@ Learn and polish **three** pieces. Use the primary choices below, or swap in one
 
 | Primary | Alternatives |
 |--------|--------------|
-| **Maid of the Mist** (Herbert L. Clarke) | **Trumpeter's Lullaby** ([sheet music](sheet-music-sources.html#phase-2--trumpeters-lullaby)); **Rigel**, **Lyra** ([Trumpet Stars](sheet-music-sources.html#trumpet-stars-vandercook--rubank--hal-leonard)). |
+| **Maid of the Mist** (Herbert L. Clarke) | **Concertino** (Haydn or similar); **Andante and Allegretto** (Balay); another lyrical solo from [Concert and Contest Collection](sheet-music-sources.html#collections-useful-for-phase-3) or your state contest list (grade 2–3, melodic with upper register). |
 
-**Focus:** Melodic shape, tone in the upper register, phrasing. Make the melody sing; keep high notes relaxed and in tune.
+**Focus:** Melodic shape, tone in the upper register, phrasing. Make the melody sing; keep high notes relaxed and in tune. *(You already played Trumpeter's Lullaby, Rigel, and Lyra in Phase 2; pick something new here so you keep building repertoire.)*
 
-**Sheet music:** [Phase 3 — single pieces & collections](sheet-music-sources.html#phase-3--lyrical-and-technical-solos) (Maid of the Mist in Concert and Contest Collection; Vandercook in Trumpet Stars).
+**Sheet music:** [Phase 3 — single pieces & collections](sheet-music-sources.html#phase-3--lyrical-and-technical-solos) (Maid of the Mist in Concert and Contest Collection).
 
 ---
 
@@ -68,9 +68,9 @@ Learn and polish **three** pieces. Use the primary choices below, or swap in one
 
 | Primary | Alternatives |
 |--------|--------------|
-| **Andante** (Capuzzi, arr. for trumpet) or **Concert Rondo** (Mozart, excerpt or simplified version) | **Mira** ([Trumpet Stars Set 2](sheet-music-sources.html#trumpet-stars-vandercook--rubank--hal-leonard)); **Slavische Fantasie** (Wurm); any lyrical solo from ***Second Book of Trumpet Solos*** ([sheet music](sheet-music-sources.html#collections-useful-for-phase-3)); **Serenade** or **Trumpet Territory** (Kendor). |
+| **Andante** (Capuzzi, arr. for trumpet) or **Concert Rondo** (Mozart, excerpt or simplified version) | **Slavische Fantasie** (Wurm); any lyrical solo from ***Second Book of Trumpet Solos*** ([sheet music](sheet-music-sources.html#collections-useful-for-phase-3)); **Serenade** or **Trumpet Territory** (Kendor Recital Solos). |
 
-**Focus:** Full run-through, stamina, and polish. Apply everything from Pieces 1 and 2: dynamics, phrasing, secure high notes.
+**Focus:** Full run-through, stamina, and polish. Apply everything from Pieces 1 and 2: dynamics, phrasing, secure high notes. *(Mira and other Phase 2 solos are already in your book; choose a new piece for this slot.)*
 
 **Sheet music:** [Second Book of Trumpet Solos](sheet-music-sources.html#collections-useful-for-phase-3), [Concert and Contest Collection](sheet-music-sources.html#collections-useful-for-phase-3), or your state contest list.
 

@@ -60,8 +60,8 @@ Do all three before Phase 2. The two bridges smooth the jump to Phase 2.
 | Slot | Primary | Alternatives |
 |-----|--------|--------------|
 | **1** | **Petite Pièce Concertante** (Balay) | Romance in E♭ (Ostransky); Andante et Allegretto (Balay); Premier Solo de Concours (Maniet). |
-| **2** | **Maid of the Mist** (Clarke) | Trumpeter's Lullaby (full expression); Rigel or Lyra (Vandercook); Lyra. |
-| **3** | **Andante** (Capuzzi) or **Concert Rondo** (Mozart, excerpt) | Mira (Vandercook); Slavische Fantasie (Wurm); piece from *Second Book of Trumpet Solos*; Serenade or Trumpet Territory (Kendor). |
+| **2** | **Maid of the Mist** (Clarke) | Concertino (Haydn or similar); Andante and Allegretto (Balay); other grade 2–3 lyrical solo from contest collection. |
+| **3** | **Andante** (Capuzzi) or **Concert Rondo** (Mozart, excerpt) | Slavische Fantasie (Wurm); piece from *Second Book of Trumpet Solos*; Serenade or Trumpet Territory (Kendor). |
 
 ### Phase 4 — Goal piece
 
