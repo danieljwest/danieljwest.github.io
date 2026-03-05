@@ -1,0 +1,14 @@
+# GitHub Pages / Jekyll config for Trumpet Practice Plan
+title: Trumpet Practice Plan
+description: Self-directed trumpet practice from foundations to Il Triello (30 min/day)
+
+# So each .md file becomes /filename.html (works with our internal links)
+permalink: /:title.html
+
+# Markdown
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# No need for a theme if we're just rendering markdown; use minimal layout
+# If you add a theme later, set it here (e.g. theme: jekyll-theme-minimal)
