@@ -6,6 +6,7 @@ This folder is set up so it can be published as a **GitHub Pages** site (Jekyll)
 
 - **Links** — All internal links use `.html` (e.g. `practice-plan.html`) so they work after Jekyll builds the site.
 - **index.md** — Serves as the site’s landing page (becomes the root URL).
+- **overview.md** — Same content as README; built as **overview.html**. The index links here because Jekyll/GitHub Pages often don't build README.md as a page (README.html would 404).
 - **_config.yml** — Jekyll config so each page gets a clean URL like `phase-01-foundation.html`.
 
 ## How to publish

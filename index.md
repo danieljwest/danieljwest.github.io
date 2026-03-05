@@ -11,7 +11,7 @@ A self-directed progression from foundations to **Il Triello** (The Good, The Ba
 
 ## Start here
 
-- **[Overview & how to use](README.html)** — Philosophy, 30-minute session structure, what’s in this site.
+- **[Overview & how to use](overview.html)** — Philosophy, 30-minute session structure, what’s in this site.
 - **[Practice plan](practice-plan.html)** — Phase index, piece list, skills needed for each phase, resources.
 
 ## Phases (work in order)
